@@ -59,7 +59,7 @@ Being able to change the format of every result was also a big factor in creatin
 I preferred the format of my GDrive addon and wanted to use that format for all my results.
 This makes it easier to parse the results and explain to less tech-savvy people how to pick the best result.
 
-It also means you only have to install one addon instead of configuring multiple addons.
+it also means you only have to install one addon instead of configuring multiple addons.
 
 Furthermore, being able to apply a global filter and sort to all results means that you can get the best results from all sources displayed first,
 rather than having to check each addon individually.
